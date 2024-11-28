@@ -91,8 +91,6 @@
     object-fit: cover;   /* Garante que a imagem cubra o tamanho definido, cortando partes se necessário */
   }
   
-
-  
   .year-box h2 {
     font-size: 2em;
     margin-bottom: 10px;
