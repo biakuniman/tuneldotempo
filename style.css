@@ -65,11 +65,14 @@
   
   /* Adicionar imagens de fundo nos anos */
   #year2022 {
-    background-image: url('2022.jpeg'); /* Caminho correto para a imagem .jpeg */
-    background-size: cover;
-    width: 100%;
-    height: 100px;
+    background-image: url('2024bia.jpeg'); /* Caminho correto para a imagem .jpeg */
+    background-size: cover;            /* Faz a imagem cobrir o tamanho do elemento */
+    background-position: center;       /* Centraliza a imagem */
+    width: 100px;                      /* Define a largura da área */
+    height: 100px;                     /* Define a altura da área */
+    border-radius: 8px;                /* (Opcional) Arredonda os cantos da área */
 }
+
 
 #year2023 {
     background-image: url('2023.jpeg'); /* Caminho correto para a imagem .jpeg */
