@@ -61,26 +61,24 @@
   /* Efeito de hover nas caixas */
   #year2022 {
     background-image: url('2024bia.jpeg'); /* Caminho correto para a imagem .jpeg */
-    background-size: cover;
-    width: 40%;
-    height: 40px;
-    margin-top: 40px;
+    width: 40px;  /* Define a largura da imagem */
+    height: 40px; /* Define a altura da imagem */
+    object-fit: cover; /* Ajusta a imagem para preencher o quadrado sem distorcer */
 }
 
 #year2023 {
     background-image: url('2023bia.jpeg'); /* Caminho correto para a imagem .jpeg */
-    background-size: cover;
-    width: 40%;
-    height: 40px;
-    margin-top: 40px;
+    width: 40px;  /* Define a largura da imagem */
+    height: 40px; /* Define a altura da imagem */
+    object-fit: cover; /* Ajusta a imagem para preencher o quadrado sem distorcer */
 }
 
 #year2024 {
     background-image: url('2022bia.jpeg'); /* Caminho correto para a imagem .jpeg */
     background-size: cover;
-    width: 40%;
-    height: 40px;
-    margin-top: 40px;
+    width: 40px;  /* Define a largura da imagem */
+    height: 40px; /* Define a altura da imagem */
+    object-fit: cover; /* Ajusta a imagem para preencher o quadrado sem distorcer */
 }
   
   .year-box h2 {
