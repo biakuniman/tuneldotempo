@@ -73,7 +73,7 @@
     border-radius: 8px;                /* (Opcional) Arredonda os cantos da área */
 }
 
-#year2022 {
+#year2023 {
     background-image: url('2023bia.jpeg'); /* Caminho correto para a imagem .jpeg */
     background-size: cover;            /* Faz a imagem cobrir o tamanho do elemento */
     background-position: center;       /* Centraliza a imagem */
@@ -82,7 +82,7 @@
     border-radius: 8px;                /* (Opcional) Arredonda os cantos da área */
 }
 
-#year2022 {
+#year2024 {
     background-image: url('2022bia.jpeg'); /* Caminho correto para a imagem .jpeg */
     background-size: cover;            /* Faz a imagem cobrir o tamanho do elemento */
     background-position: center;       /* Centraliza a imagem */
