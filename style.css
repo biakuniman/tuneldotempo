@@ -66,7 +66,6 @@
   /* Adicionar imagens de fundo nos anos */
   #year2022 {
     background-image: url('2024bia.jpeg'); /* Caminho correto para a imagem .jpeg */
-    background-size: cover;            /* Faz a imagem cobrir o tamanho do elemento */
     background-position: center;       /* Centraliza a imagem */
     width: 100px;                      /* Define a largura da área */
     height: 100px;                     /* Define a altura da área */
@@ -75,7 +74,6 @@
 
 #year2023 {
     background-image: url('2023bia.jpeg'); /* Caminho correto para a imagem .jpeg */
-    background-size: cover;            /* Faz a imagem cobrir o tamanho do elemento */
     background-position: center;       /* Centraliza a imagem */
     width: 100px;                      /* Define a largura da área */
     height: 100px;                     /* Define a altura da área */
@@ -84,7 +82,6 @@
 
 #year2024 {
     background-image: url('2022bia.jpeg'); /* Caminho correto para a imagem .jpeg */
-    background-size: cover;            /* Faz a imagem cobrir o tamanho do elemento */
     background-position: center;       /* Centraliza a imagem */
     width: 100px;                      /* Define a largura da área */
     height: 100px;                     /* Define a altura da área */
